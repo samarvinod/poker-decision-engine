@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: poker-decision-engine
+Version: 0.1.0
+Summary: A poker decision engine that evaluates game situations and recommends optimal actions
+Author: 
+Requires-Python: >=3.10
+Requires-Dist: treys>=0.1.8
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

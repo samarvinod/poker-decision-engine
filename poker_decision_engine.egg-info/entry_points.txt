@@ -1,0 +1,2 @@
+[console_scripts]
+poker-engine = poker_engine.engine.decision_engine:main
