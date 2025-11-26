@@ -240,9 +240,9 @@ def main():
         )
         
         # Print result
-        print("\n" + "="*60)
+        print("\n" + "="*120)
         print(result)
-        print("="*60 + "\n")
+        print("="*120 + "\n")
         
         return 0
         
