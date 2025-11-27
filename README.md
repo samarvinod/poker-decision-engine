@@ -272,4 +272,4 @@ poker-engine \
 - GUI application
 - Neural network-based equity estimation
 
-# Feel free to reach out with any suggestions/improvements!
+### Feel free to reach out with any suggestions/improvements!
